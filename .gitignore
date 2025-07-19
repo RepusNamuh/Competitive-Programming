@@ -12,3 +12,5 @@ Ignore_Folder
 *.vs
 *test.cpp
 *test*
+*.exe
+*practice*.cpp
